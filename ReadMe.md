@@ -6,6 +6,6 @@ In this project, we will classify images from the CIFAR-10 dataset. The dataset 
 Getting the project files
 The project files can be found above 'image_classification.ipynb' You can download the files from there.
 
-** note **
+**note**
 Please note this project is written in Python 3.x.
 
